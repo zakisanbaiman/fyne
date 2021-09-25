@@ -10,7 +10,7 @@ func main()  {
 
 	w := a.NewWindow("Hello")
 	w.SetContent(
-		widget.NewLabel("Hello Fyne!"),
+		widget.NewLabel("Hello Fyne!2"),
 	)
 
 	w.ShowAndRun()

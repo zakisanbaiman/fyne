@@ -10,7 +10,7 @@ func main()  {
 
 	w := a.NewWindow("Hello")
 	w.SetContent(
-		widget.NewLabel("Hello Fyne!2"),
+		widget.NewLabel("Hello Fyne! from centos7_go"),
 	)
 
 	w.ShowAndRun()
